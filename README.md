@@ -1,4 +1,8 @@
-<div align"">
+<div>
+    <p align="center" style="border-radius=100%"><img heigth="auto" width="10%" scr=""
+</div>    
+<div>
+    
     <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/allan-penser-flores-a1a51a214/"><i>Allan Penser Flores</i></a> 😃️</h1>
   <h2 align="center">Sou formado em TI e TADS</h2>
    
