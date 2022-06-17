@@ -1,9 +1,9 @@
-<div>
-    <p align="center" style="border-radius=100%"><img heigth="auto" width="10%" scr=""
-</div>    
+
+  <p align="center" style="border-radius:100%"><img heigth="auto" width="10%" src="https://media-exp2.licdn.com/dms/image/C4E03AQHmILS0r3A7JQ/profile-displayphoto-shrink_200_200/0/1624832119159?e=1660780800&amp;v=beta&amp;t=YwKGaz_e_nSw-S_jYecZyw9mwJAQ0RHnwJQnXAEViBw"</p>
+
 <div>
     
-    <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/allan-penser-flores-a1a51a214/"><i>Allan Penser Flores</i></a> 😃️</h1>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/allan-penser-flores-a1a51a214/"><i>Allan Penser Flores</i></a> 😃️</h1>
   <h2 align="center">Sou formado em TI e TADS</h2>
    
   <h3 align="center">Seja bem-vindo ao meu repositório, vlw mesmo! 😉️</h3>
